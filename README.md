@@ -22,7 +22,7 @@ This project is part of my AI engineering portfolio.
 
 ## 🤖 Model
 
-- **Base model**: `microsoft/git-base`  
+- **Base model**: [`microsoft/git-base`](https://huggingface.co/microsoft/git-base)  
 - **Fine-tuning**: Performed using [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685)  
 - **Frameworks**: 🤗 Transformers, PyTorch, PEFT
 
@@ -46,12 +46,12 @@ This project is part of my AI engineering portfolio.
 
 ---
 
-## 🔍 Visual Comparison
+## 🔍 Visual Comparison (GitHub Pages)
 
-You can check the side-by-side caption results in this HTML:
-👉 `captions_output/comparison_embedded.html`
+👉 [Click here to view the caption comparison results online](https://creationthesustainableworld.github.io/portfolio_to_enterjob_with_Verma/)  
+*You can visually verify how the model improves after fine-tuning.*
 
-![image](./assets/sample_comparison.png) ←（スクショなど追加可能）
+![image](./assets/sample_comparison.png) <!-- ← Optionally replace with actual screenshot -->
 
 ---
 
@@ -61,8 +61,8 @@ You can check the side-by-side caption results in this HTML:
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Run all steps in one go
+# 2. Run the full pipeline
 python a.py
 
-# 3. Optionally, regenerate comparison HTML
+# 3. Optionally regenerate HTML comparison
 python generate_html.py
