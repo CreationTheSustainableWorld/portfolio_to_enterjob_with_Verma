@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "image_filename": "dataset/images/3241892328_4ebf8b21ce.jpg",
+    "generated_caption": "a lioness jumps over a tree stump.",
+    "reference_captions": [
+      "A female lionist jumping in a green field with a green mountain in the background .",
+      "A lion jumping through tall grass .",
+      "A mountain lion is leaping off of a rock .",
+      "a tiger jumps off a rock .",
+      "Cougar pouncing off rock ."
+    ]
+  },
+  {
+    "id": 1,
+    "image_filename": "dataset/images/3556485995_9cd40269e9.jpg",
+    "generated_caption": "two men are playing a game of hockey.",
+    "reference_captions": [
+      "Two cricket players holding their sticks in the air .",
+      "Two field hockey players with their sticks in the air",
+      "two men each carrying a stick playing a sport competition",
+      "Two men playing hockey .",
+      "Two men play lacrosse or field hockey ."
+    ]
+  },
+  {
+    "id": 2,
+    "image_filename": "dataset/images/3684518763_f3490b647a.jpg",
+    "generated_caption": "a man in a black tank top is holding a colorful flag.",
+    "reference_captions": [
+      "A guy in gold chains , a black top , and gold shorts is walking with his arms outstretched in a parade .",
+      "A young man raises his arms as he marches in a parade .",
+      "A young man with gold short shorts and a black top is walking in a parade .",
+      "Man in gold jewelry and shorts by a parade .",
+      "The man in the gold lame shorts is wearing many gold necklaces ."
+    ]
+  },
+  {
+    "id": 3,
+    "image_filename": "dataset/images/866841633_05d273b96d.jpg",
+    "generated_caption": "a man in an orange kayak is in the water.",
+    "reference_captions": [
+      "A man wearing a orange vest is canoeing in the blue water .",
+      "A person paddles a boat while another has fallen into the water .",
+      "One person kayaks as another kayer sinks their boat .",
+      "Two kayakers ; one paddling and one in the water .",
+      "Two small canoes are out in the middle of the water ."
+    ]
+  },
+  {
+    "id": 4,
+    "image_filename": "dataset/images/502671104_b2114246c7.jpg",
+    "generated_caption": "a girl in a red swimsuit is in the water.",
+    "reference_captions": [
+      "a girl wearing red submerges from the water .",
+      "a young girl in a swimming suit emerging from the water .",
+      "A young girl in red bathing suit is in the pool .",
+      "Blond girl with missing front tooth , in pool .",
+      "The little girl in the pool is wearing a red swimsuit ."
+    ]
+  },
+  {
+    "id": 5,
+    "image_filename": "dataset/images/3285298241_9b1ed98d19.jpg",
+    "generated_caption": "a basketball player is in the air after a jump.",
+    "reference_captions": [
+      "A basketball player in a blue jersey holds the ball high .",
+      "A basketball player is getting ready to shoot a hoop",
+      "A man in blue uniform about to throw a basketball .",
+      "A man wearing a blue basketball jersey is shooting the basketball .",
+      "A young man shooting hoops ."
+    ]
+  },
+  {
+    "id": 6,
+    "image_filename": "dataset/images/2978735290_7464b12270.jpg",
+    "generated_caption": "a boy in red and blue is playing soccer.",
+    "reference_captions": [
+      "a boy jumps on another boy .",
+      "A boy makes a jumping dive toward another boy with a soccer ball near .",
+      "A little boy in the air above another boy on the ground where a soccer ball lies at his feet with the soccer net behind them .",
+      "The boy jumps onto his soccer player brother .",
+      "Two children are playing , one is jumping in the air ."
+    ]
+  },
+  {
+    "id": 7,
+    "image_filename": "dataset/images/2278776373_fe499a93be.jpg",
+    "generated_caption": "a man walking through a small yard.",
+    "reference_captions": [
+      "A boy walks near buildings .",
+      "A man in a blue and purple striped shirt and hat is walking past a brick building .",
+      "A man walking down a street by a garage .",
+      "A person walking past a brick shed .",
+      "A young man in a white beanie is walking down the road and passing by a garage ."
+    ]
+  },
+  {
+    "id": 8,
+    "image_filename": "dataset/images/3717309680_e5105afa6d.jpg",
+    "generated_caption": "a group of dirt bikes racing down a hill.",
+    "reference_captions": [
+      "A group of mountain bikers race each other down a dirt hill .",
+      "A group of people do tricks on motorbikes .",
+      "Dirt bikers riding off a jump .",
+      "Four motorcycle racers are on a dirt track .",
+      "Four motorcycles are racing on a dirt track ."
+    ]
+  },
+  {
+    "id": 9,
+    "image_filename": "dataset/images/2218843713_cf28ea319e.jpg",
+    "generated_caption": "a young boy sits on a rock in the river.",
+    "reference_captions": [
+      "A boy in a red shirt sits on a rock on the edge of a river .",
+      "A child on a rock in a stream .",
+      "A girl sitting on a rock in the middle of a body of water",
+      "Child wearing a red shirt sits on a rock in the water .",
+      "One boy sitting on a rock in the middle of a body of water ."
+    ]
+  },
+  {
+    "id": 10,
+    "image_filename": "dataset/images/766099402_cdda6964f0.jpg",
+    "generated_caption": "a woman in an orange dress rides a roller coaster.",
+    "reference_captions": [
+      "A lady in an orange dress rides a ride at the fair .",
+      "A woman in an orange dress riding a carnival ride .",
+      "A woman sits alone at a carnival in a lift .",
+      "A woman wearing an orange dress makes a face while riding above the fair .",
+      "The woman is wearing an orange dress riding on the ferris wheel ."
+    ]
+  },
+  {
+    "id": 11,
+    "image_filename": "dataset/images/3504158556_1d410c8ff7.jpg",
+    "generated_caption": "a group of boys stand around a car.",
+    "reference_captions": [
+      "Some young boys hang out around their car .",
+      "Three men standing in front of a parked white care",
+      "Three teenage boys standing in front of a white car",
+      "Three young black men lean againest a white jeep .",
+      "Three young men lean on the front of a Toyota truck ."
+    ]
+  },
+  {
+    "id": 12,
+    "image_filename": "dataset/images/134894450_dadea45d65.jpg",
+    "generated_caption": "a man is jumping in the air in the woods.",
+    "reference_captions": [
+      "A boy wearing no shirt and some blue jeans is jumping in the air in the woods .",
+      "A guy leaps into the air in a wooded area .",
+      "A shirtless man jumps in a sunny forest .",
+      "a shirtless man jumps over a log .",
+      "The boy is jumping in the woods ."
+    ]
+  },
+  {
+    "id": 13,
+    "image_filename": "dataset/images/3533394378_1513ec90db.jpg",
+    "generated_caption": "a couple of people riding a ferris wheel.",
+    "reference_captions": [
+      "A man and a woman are strapped into a circular metal ride .",
+      "A man and woman , both with red hair , enjoy a bungee-type carnival ride .",
+      "Two people are suspended in air in a metal ball as part of a carnival type ride .",
+      "Two people in a slingshot ride .",
+      "Two people on an amusement park ride ."
+    ]
+  },
+  {
+    "id": 14,
+    "image_filename": "dataset/images/2768662025_44001fe5d1.jpg",
+    "generated_caption": "a boy running on a sidewalk with a white puppy in his hand.",
+    "reference_captions": [
+      "a boy runs along the street .",
+      "A child running on the sidewalk .",
+      "a young boy running in a street race",
+      "A young boy runs in a race .",
+      "Blond child running in a race ."
+    ]
+  },
+  {
+    "id": 15,
+    "image_filename": "dataset/images/2804851816_9aae9071ca.jpg",
+    "generated_caption": "a brown dog running through a field of grass.",
+    "reference_captions": [
+      "A brown dog has a ball in his mouth while playing in the fence .",
+      "A brown dog runs with a toy in his mouth through long green grass .",
+      "The brown dog is running through a field , with a ball in its mouth .",
+      "The brown dog is running through the dry grass with a ball in its mouth .",
+      "The brown dog with pointy ears is holding a ball in its mouth ."
+    ]
+  },
+  {
+    "id": 16,
+    "image_filename": "dataset/images/1418503947_953d373632.jpg",
+    "generated_caption": "an old man in a hat and plaid shirt is playing with a green can.",
+    "reference_captions": [
+      "A man in an orange hat pulls a cigarette out of a box .",
+      "A man reaches into his pack for a cigarette .",
+      "A man takes out a cigarette .",
+      "A man with a orange hat and a brown jacket has a cigarette in his mouth .",
+      "There is a man with a brown hat lighting a cigarette ."
+    ]
+  },
+  {
+    "id": 17,
+    "image_filename": "dataset/images/284279868_2ca98e3dcd.jpg",
+    "generated_caption": "a brown dog and a black dog playing in the snow.",
+    "reference_captions": [
+      "The black and brown dogs play in the snowy field .",
+      "Two brown dogs play in a snowy field .",
+      "Two dogs are playing in the snow .",
+      "Two dogs play in field of snow",
+      "Two long haired dogs play in the snow ."
+    ]
+  },
+  {
+    "id": 18,
+    "image_filename": "dataset/images/3681172959_6674c118d2.jpg",
+    "generated_caption": "a woman in a blue shirt and a green hat.",
+    "reference_captions": [
+      "A girl in a blue shirt is grinning and walking in a crowd or people .",
+      "A girl wearing a tight blue shirt and an army cap walks in a crowd .",
+      "A woman in a blue shirt with no bra .",
+      "A young woman with a green hat is walking in the busy street .",
+      "The young lady walks down the street on a beautiful day ."
+    ]
+  },
+  {
+    "id": 19,
+    "image_filename": "dataset/images/2540203582_9a9ac92a5d.jpg",
+    "generated_caption": "a little girl riding a pink scooter in a driveway.",
+    "reference_captions": [
+      "A girl on a pink scooter pushes herself down a subdivsion sidewalk .",
+      "A girl riding a scooter on a sidewalk .",
+      "A small child rides down the sidewalk on a scooter in a neighborhood .",
+      "A young girl in a helmet riding a skateboard down a sidewalk .",
+      "The small child with a red helmet rides a scooter on a sidewalk ."
+    ]
+  }
+]
