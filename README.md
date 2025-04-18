@@ -51,9 +51,7 @@ This project is part of my AI engineering portfolio.
 👉 [Click here to view the caption comparison results online](https://creationthesustainableworld.github.io/portfolio_to_enterjob_with_Verma/)  
 *You can visually verify how the model improves after fine-tuning.*
 
-![image](./assets/sample_comparison.png) <!-- ← Optionally replace with actual screenshot -->
 
----
 
 ## 🛠 How to Run
 
